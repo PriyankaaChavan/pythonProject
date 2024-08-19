@@ -1,1 +1,2 @@
-print("Lab5")
+#Python Program
+print("Hello World")
