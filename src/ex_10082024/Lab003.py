@@ -21,4 +21,5 @@ whether to forcibly flush the stream.
 print(*values, sep=" ", end="\n", file=None, flush=False)` on docs. python. org '''
 
 print("Hi", "pc", 123, sep="?", end="_")
+print("Hi", "pc", 123, sep="?", end="_")
 print("pc")
