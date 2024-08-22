@@ -49,5 +49,5 @@
 # print(sum)
 #
 
-a,b,c=10,20,30
-print(a,b,c,sep="_")
+# a,b,c=10,20,30
+# print(a,b,c,sep="_")
