@@ -18,3 +18,6 @@ from sys import setdlopenflags
 # print(type(value))
 # print(type(complex_num.real))
 # print(type(complex_num.imag))
+
+result = max(54, 45)
+print(result)
